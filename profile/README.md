@@ -29,6 +29,9 @@ The game follows a school girl trapped in a haunted school. Players uncover dark
 ### **2. Horror Elements**
 Lost Life intertwines horror with simulation gameplay, featuring eerie sound effects, jump scares, and suspenseful moments. These thrilling elements add a layer of excitement for players who enjoy a good scare.
 
+![Screenshot_37](https://github.com/user-attachments/assets/c50f3a03-6181-4d03-a082-e97265724af8)
+
+
 ### **3. Stunning Graphics**
 The game boasts meticulously designed visuals, from realistic character models to atmospheric environments, enhancing the overall immersive experience.
 
